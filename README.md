@@ -11,7 +11,7 @@ Para presentarme mis diversos trabajos de diseño a potenciales clientes que est
 ### **Usuarios**
 
 
-##*Lira Martines*
+## *Lira Martines*
 -
 <img src='images/p1.jpg' width=766></img>
 -
@@ -28,9 +28,9 @@ Para presentarme mis diversos trabajos de diseño a potenciales clientes que est
 -No encuentra la manera de enfocar su proyecto, muhcas ideas dispersas
 -
 -
-##*Rodrigo Miranda*
+## *Rodrigo Miranda*
 -
-<img src='images/p1.jpg' width=766></img>
+<img src='images/p2.jpg' width=766></img>
 -
 - Edad: 45 años 
 - Trabajo: Ingeniero comercial
@@ -44,9 +44,9 @@ Para presentarme mis diversos trabajos de diseño a potenciales clientes que est
 - No puede conectar con un publico joven, no los ve las necesidades que estos pueden llegar a tener al no entenderlos
 -
 -
-##*Rosio Gomez*
+## *Rosio Gomez*
 -
-<img src='images/images/p1.jpg' width=766></img>
+<img src='images/p3.jpg' width=766></img>
 -
 - Edad: 20
 - Trabajo: Estudiante de diseño
