@@ -73,7 +73,7 @@ Positivo:La estructura y el rendimiento son buenos
 
 Negativo: Sineto que todo es muy grande 
 
--2. Una empresa que ayuda a despegar a pequeños y meidos negocios
+2. Una empresa que ayuda a despegar a pequeños y meidos negocios
 <img src='images/Illustration_02.jpg' width=766></img>
 https://pandapay.ca/
 
