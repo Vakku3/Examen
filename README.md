@@ -15,10 +15,10 @@ Para presentarme mis diversos trabajos de diseño a potenciales clientes que est
 
 <img src='images/p1.jpg' width=200></img>
 
- Edad: 30 años 
- Trabajo: Artes visuales
- Gustos: Fantasia, cottage Core, 
- Personalida: Amable, cariñosa, calida 
+ Edad: 30 años | 
+ Trabajo: Artes visuales |
+ Gustos: Fantasia, cottage Core |
+ Personalida: Amable, cariñosa, calida |
 
  Necesidad
  Diseñadores y artestas que la ayuden en un proyecto con un enfoque ludico o fantastico.
@@ -33,9 +33,9 @@ No encuentra la manera de enfocar su proyecto, muhcas ideas dispersas
 <img src='images/p2.jpg' width=200></img>
 
  Edad: 45 años 
- Trabajo: Ingeniero comercial
- Gustos: Fantasia, cottage Core, 
- Personalida: Logico, ordenado, clasico, frio
+ Trabajo: Ingeniero comercial |
+ Gustos: Fantasia, cottage Core |
+ Personalida: Logico, ordenado, clasico, frio |
 
  Necesidad
  Requiere de la ayuda de diseñadores o artistas para un proyecto enfocado a un publico infante
@@ -48,10 +48,10 @@ No encuentra la manera de enfocar su proyecto, muhcas ideas dispersas
 
 <img src='images/p3.jpg' width=200></img>
 
- Edad: 20
- Trabajo: Estudiante de diseño
- Gustos: Fantasia, caricaturas, la ilustracion
- Personalida: calida, curiosa, soliraria
+ Edad: 20 |
+ Trabajo: Estudiante de diseño |
+ Gustos: Fantasia, caricaturas, la ilustracion |
+ Personalida: calida, curiosa, soliraria |
 
  Necesidad
  Quiere referentes de otros diseñadores que tambien dediquen su trabajo a un estilo mas caricaturesco enfocado en la fantasia
@@ -69,29 +69,29 @@ No encuentra la manera de enfocar su proyecto, muhcas ideas dispersas
 <img src='images/Illustration_01.jpg' width=766></img>
 - https://dogbreedcartoon.com/
 
-- Positivo:La estructura y el rendimiento son buenos
-- Negativo: Sineto que todo es muy grande
+- Positivo:La estructura y el rendimiento son buenos |
+- Negativo: Sineto que todo es muy grande |
 
 -2. Una empresa que ayuda a despegar a pequeños y meidos negocios
 <img src='images/Illustration_02.jpg' width=766></img>
 -https://pandapay.ca/
 
-- Positivo: Original
-- Negativo: Mucho movimiento que puede confiundir al espectador
+- Positivo: Original |
+- Negativo: Mucho movimiento que puede confiundir al espectador |
 
 -3. Pagina que presenta a un artista
 <img src='images/Illustration_03.jpg' width=766></img> 
 - https://www.behance.net/gallery/170719613/COMPASS
 
-- Positivo: Directa y presenta lo que quiere que veas
-- Negativo: Demaciado sensilla, simple
+- Positivo: Directa y presenta lo que quiere que veas |
+- Negativo: Demaciado sensilla, simple |
 
 -4. Pagina que presenta a un artista
 <img src='images/Illustration_04.jpg' width=766></img>
 -https://www.behance.net/gallery/170826753/details-warrior
 
-- Positivo: Directa y presenta lo que quiere que veas
-- Negativo: Demaciado sensilla, simple
+- Positivo: Directa y presenta lo que quiere que veas |
+- Negativo: Demaciado sensilla, simple |
 
 -5. Pagina que presenta a un artista
 <img src='images/Illustration_05.jpg' width=766></img>
@@ -104,8 +104,8 @@ No encuentra la manera de enfocar su proyecto, muhcas ideas dispersas
 <img src='images/Illustration_06.jpg' width=766></img>
 - https://dragonslake.com/
 
-- Positivo: Simple y facil de navegar
-- Negativo: No muy buena gama de colores
+- Positivo: Simple y facil de navegar |
+- Negativo: No muy buena gama de colores |
 
 - - - - - - -
 
