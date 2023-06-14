@@ -12,52 +12,52 @@ Para presentarme mis diversos trabajos de diseño a potenciales clientes que est
 
 
 ## *Lira Martines*
--
-<img src='images/p1.jpg' width=766></img>
--
-- Edad: 30 años 
-- Trabajo: Artes visuales
-- Gustos: Fantasia, cottage Core, 
-- Personalida: Amable, cariñosa, calida 
--
-- Necesidad
-- Diseñadores y artestas que la ayuden en un proyecto con un enfoque ludico o fantastico.
--
--
--Frustracion
--No encuentra la manera de enfocar su proyecto, muhcas ideas dispersas
--
--
+
+<img src='images/p1.jpg' width=200></img>
+
+ Edad: 30 años 
+ Trabajo: Artes visuales
+ Gustos: Fantasia, cottage Core, 
+ Personalida: Amable, cariñosa, calida 
+
+ Necesidad
+ Diseñadores y artestas que la ayuden en un proyecto con un enfoque ludico o fantastico.
+
+
+Frustracion
+No encuentra la manera de enfocar su proyecto, muhcas ideas dispersas
+
+
 ## *Rodrigo Miranda*
--
-<img src='images/p2.jpg' width=766></img>
--
-- Edad: 45 años 
-- Trabajo: Ingeniero comercial
-- Gustos: Fantasia, cottage Core, 
-- Personalida: Logico, ordenado, clasico, frio
--
-- Necesidad
-- Requiere de la ayuda de diseñadores o artistas para un proyecto enfocado a un publico infante
--
-- Frustracion
-- No puede conectar con un publico joven, no los ve las necesidades que estos pueden llegar a tener al no entenderlos
--
--
+
+<img src='images/p2.jpg' width=200></img>
+
+ Edad: 45 años 
+ Trabajo: Ingeniero comercial
+ Gustos: Fantasia, cottage Core, 
+ Personalida: Logico, ordenado, clasico, frio
+
+ Necesidad
+ Requiere de la ayuda de diseñadores o artistas para un proyecto enfocado a un publico infante
+
+ Frustracion
+ No puede conectar con un publico joven, no los ve las necesidades que estos pueden llegar a tener al no entenderlos
+
+
 ## *Rosio Gomez*
--
-<img src='images/p3.jpg' width=766></img>
--
-- Edad: 20
-- Trabajo: Estudiante de diseño
-- Gustos: Fantasia, caricaturas, la ilustracion
-- Personalida: calida, curiosa, soliraria
--
-- Necesidad
-- Quiere referentes de otros diseñadores que tambien dediquen su trabajo a un estilo mas caricaturesco enfocado en la fantasia
--
-- Frustracion
-- No logra aclararse si el diseño es la carrera que ella busca
+
+<img src='images/p3.jpg' width=200></img>
+
+ Edad: 20
+ Trabajo: Estudiante de diseño
+ Gustos: Fantasia, caricaturas, la ilustracion
+ Personalida: calida, curiosa, soliraria
+
+ Necesidad
+ Quiere referentes de otros diseñadores que tambien dediquen su trabajo a un estilo mas caricaturesco enfocado en la fantasia
+
+ Frustracion
+ No logra aclararse si el diseño es la carrera que ella busca
 
 
 
